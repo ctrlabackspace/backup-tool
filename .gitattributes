@@ -1,0 +1,11 @@
+# Generated on 2026-11-10 
+# See https://github.com/github/linguist  
+# Normalize line endings
+*.min.js linguist-generated
+*.svg text
+public/*.html linguist-vendored
+
+src/**/*.js linguist-detectable
+*.json linguist-detectable=false
+* text=auto eol=lf  
+*.bat text eol=crlf
