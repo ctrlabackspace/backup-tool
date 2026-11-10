@@ -1,0 +1,9 @@
+*.log
+node_modules/
+.env.local
+.pnpm-store/
+coverage/
+*.tgz
+npm-debug.log*
+.cache/
+_site/
